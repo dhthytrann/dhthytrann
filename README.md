@@ -1,8 +1,8 @@
 
-<img align="center" width="100000" src="https://i.pinimg.com/originals/7a/5a/b6/7a5ab6c2d8d212abd35e9e244687743a.gif">
+<img align="center" width="1000" height="500"  src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif">
 <h1 align="center">Hi 👋, I'm Tran Duong</h1>
 <h3 align="center">I am a frontend developer from Vietnam who is passionate about my work.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhthytrann&label=Profile%20views&color=0e75b6&style=flat" alt="dhthytrann" /> </p>
 
